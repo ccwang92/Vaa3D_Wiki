@@ -1,5 +1,5 @@
 ## <font color='red'>This tutorial roots from <a href='https://github.com/Vaa3D/Vaa3D_Wiki/wiki/Build-Vaa3D-on-Linux'>here</a></font>
-Note: this is only my own experience of building Vaa3d on Ubuntu 20.04. You should follow the original <a href='https://github.com/Vaa3D/Vaa3D_Wiki/wiki/Build-Vaa3D-on-Linux'>tutorial</a> first. If failed, you may try this one. The pipeline is the same, but some specific operations may change.
+Note: this is only my own experience of building Vaa3d on Ubuntu 16.04 and 20.04. You should follow the original <a href='https://github.com/Vaa3D/Vaa3D_Wiki/wiki/Build-Vaa3D-on-Linux'>tutorial</a> first. If failed, you may try this one. The pipeline is the same, but some specific operations may change.
 
 ## <font color='blue'> PREREQUISITES: Qt and C++ compilier </font>
 
